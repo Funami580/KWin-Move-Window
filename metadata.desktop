@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Move Window
+Comment=Move Window
+Icon=preferences-system-windows-script-test
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+
+X-KDE-PluginInfo-Author=Funami580
+X-KDE-PluginInfo-Name=MoveWindow
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-EnabledByDefault=true
+
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=
+X-KDE-ServiceTypes=KWin/Script
+Type=Service
